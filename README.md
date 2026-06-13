@@ -16,6 +16,13 @@ calling, agent loop, and how to integrate multiple tools into an AI assistant.
 
 # Passing the first stage
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/codecrafters-claude-code?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/codecrafters-claude-code?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/codecrafters-claude-code?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.1.0-blue?style=flat-square)](https://pypi.org/project/codecrafters-claude-code)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 The entry point for your `claude-code` implementation is in `app/main.py`. Study
 and uncomment the relevant code, and submit to pass the first stage:
 
